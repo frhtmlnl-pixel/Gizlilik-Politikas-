@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Namaz & Kıble - Gizlilik Politikası</title>
+    <style>
+      :root {
+        --bg: #f6f8fb;
+        --card: #ffffff;
+        --text: #1f2937;
+        --muted: #4b5563;
+        --line: #e5e7eb;
+        --accent: #0f766e;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        line-height: 1.7;
+      }
+
+      .container {
+        max-width: 980px;
+        margin: 40px auto;
+        padding: 24px;
+      }
+
+      .card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);
+        padding: 32px 28px;
+      }
+
+      h1 {
+        font-size: 2.2rem;
+        margin: 0 0 20px;
+        color: var(--text);
+      }
+
+      h2 {
+        font-size: 1.3rem;
+        margin-top: 28px;
+        margin-bottom: 10px;
+        color: var(--text);
+      }
+
+      p, li {
+        font-size: 1rem;
+        color: var(--muted);
+      }
+
+      ul {
+        padding-left: 20px;
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .meta {
+        margin-top: 24px;
+        padding-top: 18px;
+        border-top: 1px solid var(--line);
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="card">
+        <h1>Gizlilik Politikası</h1>
+
+        <p>
+          Bu Gizlilik Politikası, Namaz &amp; Kıble uygulaması ve ilgili hizmetleri kullanan kullanıcıların kişisel verilerinin nasıl toplandığını, işlendiğini, korunduğunu ve hangi haklara sahip olduklarını açıklamaktadır. Bu politika, uygulamanın web sitesi ve mobil uygulama erişimleri için geçerli olup, kullanıcıların bilinçli şekilde hizmetten yararlanmalarını amaçlar.
+        </p>
+
+        <h2>1. Veri Toplama</h2>
+        <p>Uygulamayı kullanırken aşağıdaki veriler toplanabilir:</p>
+        <ul>
+          <li>Cihaz bilgileri (cihaz tipi, işletim sistemi, sürüm bilgisi)</li>
+          <li>Uygulama kullanım istatistikleri ve etkinlik verileri</li>
+          <li>IP adresi, erişim tarihi ve saati</li>
+          <li>Hata/çökme kayıtları ve performans verileri</li>
+          <li>Konum bilgisi (yalnızca kullanıcı açık izin verdiğinde)</li>
+          <li>Kullanıcı tarafından sağlanan bilgiler (ör. ad, e-posta, profil bilgileri)</li>
+        </ul>
+        <p>
+          Bu veriler, uygulamanın güvenli ve sorunsuz şekilde çalışmasını sağlamak, hataları analiz etmek, kullanıcı deneyimini iyileştirmek ve yasal yükümlülüklere uymak amacıyla toplanır.
+        </p>
+
+        <h2>2. Verilerin Kullanımı</h2>
+        <p>Toplanan veriler aşağıdaki amaçlarla kullanılabilir:</p>
+        <ul>
+          <li>Uygulamanın sunulması ve geliştirilmesi</li>
+          <li>Kullanıcı deneyimini iyileştirmek ve kişiselleştirmek</li>
+          <li>Hesap yönetimi, güvenlik ve kimlik doğrulama işlemleri</li>
+          <li>Teknik sorunları tespit etmek ve çözmek</li>
+          <li>Analitik ve kullanım raporları oluşturmak</li>
+          <li>Yasal düzenlemelere uyum sağlamak</li>
+          <li>Gerekli durumlarda kullanıcılara bildirim ve güvenlik iletişimi göndermek</li>
+        </ul>
+
+        <h2>3. Çerezler ve Takip Teknolojileri</h2>
+        <p>
+          Uygulama, işlevsellik, analitik ve güvenlik amaçlarıyla çerezler, SDK’lar ve benzeri izleme teknolojilerini kullanabilir. Bu teknolojiler, kullanıcı deneyimini geliştirmek, uygulamanın performansını izlemek ve güvenlik önlemlerini etkin tutmak için kullanılabilir. Kullanıcılar cihaz ayarlarından çerezleri ve bazı izleme seçeneklerini kısmen kontrol edebilir; ancak bu durum bazı özelliklerin düzgün çalışmasını etkileyebilir.
+        </p>
+
+        <h2>4. Yapay Zeka ve Otomasyon</h2>
+        <p>
+          Uygulama, kullanıcı deneyimini geliştirmek ve bazı özellikleri daha verimli sunmak için yapay zeka ve otomasyon teknolojilerini kullanabilir. Bu teknolojiler, öneriler, kişiselleştirilmiş içerik, otomatik işlemler veya benzer işlevler için verileri işleyebilir. Tüm yapay zeka işlemleri, bu Gizlilik Politikası ve yürürlükteki yasal düzenlemelere uygun şekilde gerçekleştirilir.
+        </p>
+
+        <h2>5. Üçüncü Taraf Hizmetler</h2>
+        <p>Uygulama, aşağıdaki üçüncü taraf hizmetleri kullanabilir:</p>
+        <ul>
+          <li>Google Play Hizmetleri</li>
+          <li>Analitik ve performans izleme araçları</li>
+          <li>Harita ve konum tabanlı servisler</li>
+          <li>Güvenlik ve müşteri destek araçları</li>
+        </ul>
+        <p>Bu hizmetler, kendi gizlilik politikalarına tabidir. Aşağıdaki bağlantılardan ilgili politikaları inceleyebilirsiniz:</p>
+        <ul>
+          <li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Hizmetleri</a></li>
+          <li><a href="https://www.facebook.com/about/privacy/update/printable" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+          <li><a href="https://www.mapbox.com/legal/privacy" target="_blank" rel="noopener noreferrer">Mapbox</a></li>
+        </ul>
+
+        <h2>6. Veri Paylaşımı ve Açıklama</h2>
+        <p>Hizmet Sağlayıcısı, kişisel verileri yalnızca şu durumlarda üçüncü taraflarla paylaşabilir:</p>
+        <ul>
+          <li>Yasal zorunluluklar kapsamında</li>
+          <li>Güvenlik, dolandırıcılık önleme ve mevzuat uyumu amacıyla</li>
+          <li>Teknik servis sağlayıcıları ile gerekli işlevsellik için</li>
+          <li>Kullanıcının açık rızası ile</li>
+        </ul>
+        <p>
+          Ayrıca, güvenlik, hakların korunması, dolandırıcılığın araştırılması veya yasal talep doğrultusunda bilgi paylaşımı gerekli olabilir.
+        </p>
+
+        <h2>7. Veri Saklama Süresi</h2>
+        <p>
+          Kişisel veriler, uygulamanın sunulması, güvenlik, teknik destek ve yasal uyum için gerekli olduğu süre boyunca saklanır. Otomatik olarak toplanan veriler genellikle kısa süreli saklanırken, yasal gereklilikler nedeniyle daha uzun süre saklama gerekebilir. Anonimleştirilmiş veriler, kişiyi tanımlamayacak şekilde saklanabilir.
+        </p>
+
+        <h2>8. Kullanıcı Hakları</h2>
+        <p>Kullanıcılar aşağıdaki haklara sahiptir:</p>
+        <ul>
+          <li>Kişisel verilerine erişim talep etme</li>
+          <li>Kişisel verilerini düzeltme veya güncelleme isteme</li>
+          <li>Kişisel verilerinin silinmesini talep etme</li>
+          <li>İşlem rızasını geri çekme</li>
+          <li>Veri işleme faaliyetleri hakkında bilgi alma</li>
+        </ul>
+        <p>Bu hakları kullanmak için lütfen iletişime geçin: frhtmlnl@gmail.com</p>
+
+        <h2>9. Kaliforniya Gizlilik Hakları (CCPA/CPRA)</h2>
+        <p>Kaliforniya’da yaşayan kişiler için aşağıdaki haklar geçerlidir:</p>
+        <ul>
+          <li>Hangi kişisel verilerin toplandığını öğrenme hakkı</li>
+          <li>Kişisel verilerin silinmesini talep etme hakkı</li>
+          <li>Kişisel verilerin satışına veya paylaşılmasına itiraz etme hakkı</li>
+          <li>Ayrımcılık yapılmama hakkı</li>
+        </ul>
+        <p>Bu hakları kullanmak için bizimle iletişime geçebilirsiniz: frhtmlnl@gmail.com</p>
+
+        <h2>10. Çocuklar</h2>
+        <p>
+          Uygulama, 16 yaşından küçük çocuklardan bilerek veri toplamaz. Çocukların kişisel bilgilerinin paylaşılmaması için ebeveyn ve veliler gerekli denetimi sağlamalıdır. Eğer bir çocuğa ait kişisel verinin yanlışlıkla paylaşıldığını düşünüyorsanız, lütfen bize bildirin; gerekli işlemler yapılacaktır.
+        </p>
+
+        <h2>11. Güvenlik Önlemleri</h2>
+        <p>
+          Hizmet Sağlayıcısı, kişisel verilerin güvenliğini korumak için uygun teknik, idari ve fiziksel önlemler uygular. Ancak internet üzerinden yapılan veri iletimi tamamen güvenli değildir ve bu nedenle eksiksiz güvence verilemez.
+        </p>
+
+        <h2>12. Veri İhlali Bildirimi</h2>
+        <p>
+          Kişisel verileri etkileyen bir veri ihlali meydana gelirse, Hizmet Sağlayıcısı mevzuata uygun şekilde gerekli bildirimleri yapacak ve kullanıcıları uygun yöntemlerle bilgilendirecektir.
+        </p>
+
+        <h2>13. Değişiklikler</h2>
+        <p>
+          Bu Gizlilik Politikası zaman zaman güncellenebilir. Önemli değişiklikler olduğunda kullanıcılar uygulama içi bildirimler, e-posta veya uygun diğer yöntemler ile bilgilendirilebilir. Politikanın güncellenmiş sürümünü kullanmaya devam etmek, değişiklikleri kabul etmek anlamına gelir.
+        </p>
+
+        <h2>14. İletişim</h2>
+        <p>Sorularınız, önerileriniz veya kişisel veri talepleriniz için lütfen aşağıdaki adresten iletişime geçin:</p>
+        <ul>
+          <li>E-posta: frhtmlnl@gmail.com</li>
+          <li>Uygulama Adı: Namaz &amp; Kıble</li>
+        </ul>
+
+        <p>Bu Gizlilik Politikası, 2026-09-14 tarihinde yürürlüğe girmiştir.</p>
+
+        <div class="meta">
+          Bu metin, web sitesi ve uygulama sayfaları için kullanılabilir genel final sürümüdür.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
