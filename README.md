@@ -84,7 +84,10 @@ Kişisel verileri etkileyen bir veri ihlali meydana gelirse, Hizmet Sağlayıcı
 13. Değişiklikler
 Bu Gizlilik Politikası zaman zaman güncellenebilir. Önemli değişiklikler olduğunda kullanıcılar uygulama içi bildirimler, e-posta veya uygun diğer yöntemler ile bilgilendirilebilir. Politikanın güncellenmiş sürümünü kullanmaya devam etmek, değişiklikleri kabul etmek anlamına gelir.
 
-14. İletişim
+14. Bildirimler
+Uygulamamız (com.aistudio.namazvakitleri.qibla), kullanıcıların dini vecibelerini yerine getirmelerine yardımcı olan bir namaz vakitleri ve ibadet hatırlatıcısı uygulamasıdır. Uygulamanın ana fonksiyonu, kullanıcının coğrafi konumuna göre günlük 5 vakit namaz saatini hassas bir şekilde hesaplamak ve bildirmektir.Tam Zamanlı Alarm İzninin Gerekçesi:İslam dinindeki namaz vakitleri, güneşin konumuna bağlı olarak her gün dakikası dakikasına değişmektedir. Uygulamanın temel işlevini yerine getirebilmesi için ezan vakti hatırlatmalarının tam olarak doğru dakikada tetiklenmesi kritik önem taşır. Standart arka plan kısıtlamaları nedeniyle birkaç dakika bile olsa yaşanacak bir gecikme, kullanıcıların ibadet vaktini kaçırmasına yol açar.Kullanım Amacı Kategorisi:Bu durum, Google politikalarında izin verilen "Saat, Takvim veya Namaz/İbadet Hatırlatıcısı" kategorisine tam olarak uymaktadır. Bu izin yalnızca kullanıcının kendi isteğiyle açtığı ezan alarmlarını tam zamanında başlatmak amacıyla kullanılmaktadır.
+
+15. İletişim
 Sorularınız, önerileriniz veya kişisel veri talepleriniz için lütfen aşağıdaki adresten iletişime geçin:
 
 E-posta: frhtmlnl@gmail.com
