@@ -1,41 +1,64 @@
 
-
 GİZLİLİK POLİTİKASI
 
 Son Güncelleme Tarihi: 09 Kasım 2026
-Trafik Kaza Portalı (Paket Adı: com.trafikkazaportali.app, bundan sonra "Uygulama" olarak anılacaktır) olarak, kullanıcılarımızın ("Kullanıcı" veya "Siz") gizliliğine ve kişisel verilerinin korunmasına büyük önem veriyoruz. Bu Gizlilik Politikası, Uygulamayı kullandığınızda cihazınız üzerinden işlenen verilerin kapsamını, amacını ve nasıl korunduğunu açıklamaktadır.
-Uygulamamızı kullanarak, bu politikada belirtilen veri işleme ve izin uygulamalarını kabul etmiş sayılırsınız.
+Trafik Kaza Portalı (Paket Adı: com.trafikkazaportali.app, bundan sonra "Uygulama" olarak anılacaktır) olarak, kullanıcılarımızın ("Kullanıcı" veya "Siz") gizliliğine ve kişisel verilerinin korunmasına büyük önem veriyoruz. Bu Gizlilik Politikası, Uygulamayı kullandığınızda cihazınız üzerinden işlenen verilerin kapsamını, amacını, hukuki sebebini ve nasıl korunduğunu açıklamaktadır. Uygulamamızı kullanarak, bu politikada belirtilen veri işleme, izin, reklam ve satın alma uygulamalarını kabul etmiş sayılırsınız.
 
 1. Hesap Oluşturma / Üyelik Durumu
 
-Uygulamamız herhangi bir hesap oluşturma veya kullanıcı kaydı (isim, soyisim, telefon numarası, şifre vb.) gerektirmemektedir. Uygulamayı indiren herkes, kişisel profil bilgisi paylaşmadan doğrudan kullanmaya başlayabilir. Bu doğrultuda, kimliğinizi doğrudan belirleyecek herhangi bir kişisel profil verisi sunucularımızda saklanmaz.
+Uygulamamız herhangi bir hesap oluşturma veya kullanıcı kaydı (isim, soyisim, telefon numarası, şifre vb.) gerektirmemektedir. Uygulamayı indiren herkes, kimlik belirleyici kişisel profil bilgisi paylaşmadan doğrudan kullanmaya başlayabilir. Kimliğinizi doğrudan belirleyecek herhangi bir profil verisi sunucularımızda toplanmaz ve saklanmaz.
 
-2. Toplanan İzinler, Veriler ve İşlenme Amaçları
+2. Uygulama İçi Satın Almalar ve Ödeme Güvenliği
 
-Uygulamanın temel kaza/olay raporlama işlevlerini yerine getirebilmesi için cihazınız üzerinden aşağıdaki izinler talep edilir ve veriler işlenir:
-• Kesin Konum Bilgisi (GPS ve Ağ Tabanlı): Trafik kazası veya olay anında, bulunduğunuz yerin rapor üzerinde otomatik ve doğru bir şekilde işaretlenmesi amacıyla konum bilgisine erişim izni talep edilir. Bu veri, yalnızca kaza raporunun oluşturulması ve rapor dosyanıza doğru koordinatların eklenmesi için kullanılır.
-• Anlık Bildirimler (Push Notifications): Oluşturduğunuz raporların durumu, uygulama içi güncellemeler ve önemli güvenlik uyarıları hakkında sizi anında bilgilendirmek amacıyla bildirim gönderme izni istenir. Bu bildirimleri cihazınızın ayarlarından dilediğiniz zaman kapatabilirsiniz.
-• Rapor Yedekleme İşlemleri: Uygulama içerisinde oluşturduğunuz kaza raporlarının (fotoğraflar, açıklamalar, kaza detayları ve konum verileri) cihaz değişikliği veya veri kaybı durumlarında korunabilmesi için yedekleme özelliği sunulmaktadır. Kullanıcının onayıyla bu veriler güvenli bir şekilde yedeklenir.
+Uygulama içerisinde kullanıcılara ek özellikler, rapor limit artırımları veya reklamsız kullanım gibi avantajlar sunan uygulama içi satın alma seçenekleri yer alabilir.
+• Ödeme Bilgileri: Uygulama içi satın alma işlemleri tamamen Google Play Store veya Apple App Store’un kendi güvenli ödeme altyapıları üzerinden gerçekleştirilir.
+• Veri Sorumluluğu: Kredi kartı numaranız, banka bilgileriniz veya fatura adresiniz gibi hassas finansal verileriniz tarafımızca asla görülmez, işlenmez ve sunucularımızda saklanmaz. Ödeme süreçlerine ilişkin tüm gizlilik ve güvenlik politikaları, kullandığınız cihazın uygulama mağazası sorumluluğundadır (Google / Apple Gizlilik Politikaları geçerlidir).
 
-3. Verilerin Paylaşımı ve Üçüncü Taraflar
+3. Reklam İçerikleri ve Üçüncü Taraf Reklam Ağları
 
-Uygulama içerisinde üyelik bulunmadığı için kimlik bilgileriniz üçüncü taraflarla paylaşılmaz. Raporlanan kaza ve konum verileri, aşağıdaki istisnalar haricinde üçüncü şahıslarla asla paylaşılmamaktadır:
-• Yasal Zorunluluklar: Yasal bir süreç, mahkeme kararı veya adli/resmi makamların resmi talebi doğrultusunda paylaşılması zorunlu olan durumlar.
-• Kullanıcı Talebi: Raporların sigorta şirketleri, çekici servisleri veya ilgili resmi birimlerle paylaşılmasını bizzat uygulamanın paylaşım özellikleri üzerinden talep etmeniz durumu.
+Uygulamanın ücretsiz olarak sunulabilmesi ve sürdürülebilirliği amacıyla uygulama içerisinde üçüncü taraf reklam içerikleri (banner, geçiş reklamları, ödüllü reklamlar vb.) gösterilmektedir.
+• Toplanan Tanımlayıcılar: Reklamların size uygun şekilde optimize edilmesi, reklam sıklığının sınırlandırılması ve analitik raporlama yapılabilmesi amacıyla üçüncü taraf reklam sağlayıcıları cihazınıza ait Reklam Kimliğini (Google Reklam Kimliği - AAID veya Apple Reklam Verenler İçin Kimlik - IDFA) ve cihaz modeli, işletim sistemi gibi anonim teknik bilgileri işleyebilir.
+• Kısıtlama Hakkı: Kullanıcılar, cihazlarının işletim sistemi ayarlarından (Gizlilik > Reklamlar bölümünden) kişiselleştirilmiş reklam hedeflemesini diledikleri zaman kısıtlayabilir veya reklam kimliklerini sıfırlayabilirler.
 
-4. Veri Güvenliği ve Saklama
+4. Toplanan İzinler, Veriler ve İşlenme Amaçları
 
-Verilerinizin güvenliğini sağlamak için endüstri standartlarında teknik ve idari tedbirler (şifreleme yöntemleri, güvenli veri iletim protokolleri) uygulanmaktadır. Cihazınızda veya yedekleme alanında saklanan veriler, yalnızca yukarıda belirtilen kaza raporlama amaçlarının gerçekleştirilmesi için gerekli olan süre boyunca veya yasal yükümlülüklerin gerektirdiği müddetçe saklanır.
+Uygulamanın temel kaza/olay raporlama işlevlerini yerine getirebilmesi için cihazınız üzerinden aşağıdaki izinler talep edilir ve ilgili veriler işlenir:
+• Kesin Konum Bilgisi (GPS ve Ağ Tabanlı): Trafik kazası veya olay anında, bulunduğunuz yerin rapor üzerinde otomatik ve doğru bir şekilde işaretlenmesi amacıyla konum erişimi istenir. Bu veri, yalnızca kaza raporunun oluşturulması ve rapor dosyanıza doğru koordinatların eklenmesi amacıyla arka planda değil, yalnızca uygulama açıkken (ön planda) kullanılır.
+• Anlık Bildirimler (Push Notifications): Oluşturduğunuz raporların durumu, satın alma onayları, uygulama içi güncellemeler ve önemli güvenlik uyarıları hakkında sizi anında bilgilendirmek amacıyla bildirim gönderme izni istenir. Bu bildirimleri cihazınızın ayarlarından dilediğiniz zaman kapatabilirsiniz.
+• Rapor Yedekleme İşlemleri: Uygulama içerisinde oluşturduğunuz kaza raporlarının (fotoğraflar, açıklamalar, kaza detayları ve konum verileri) cihaz değişikliği veya veri kaybı durumlarında korunabilmesi için yedekleme özelliği sunulmaktadır. Kullanıcının açık onayı ve talebiyle bu veriler, geri yükleme yapılabilmesi amacıyla bulut sunucularımızda şifrelenmiş ve anonim olarak güvenli bir şekilde yedeklenir. Bu veriler kimliğinizle eşleştirilmez.
 
-5. Kullanıcı Hakları ve İzin Yönetimi
+5. Verilerin Paylaşımı ve Üçüncü Taraflar
 
-Dilediğiniz zaman cihazınızın ayarlar (Uygulama Yönetimi) bölümünden konum erişimini ve anlık bildirim izinlerini iptal edebilirsiniz. Uygulamada hesap oluşturma bulunmadığından, cihazınızda yerel olarak saklanan verileri uygulamanın verilerini temizleyerek veya uygulamayı kaldırarak anında kalıcı olarak silebilirsiniz.
+Uygulama içerisinde doğrudan kimlik bilgisi toplanmadığı için üçüncü taraflarla bir kimlik paylaşımı söz konusu değildir. Raporlanan kaza, görsel ve konum verileri, aşağıdaki istisnalar haricinde üçüncü şahıslarla asla paylaşılmamaktadır:
+• Yasal Zorunluluklar: 6698 sayılı KVKK ve ilgili mevzuat uyarınca; yasal bir süreç, mahkeme kararı veya adli/resmi makamların resmi talebi doğrultusunda paylaşılması zorunlu olan durumlar.
+• Kullanıcı Talebi: Raporların sigorta şirketleri, çekici servisleri veya ilgili resmi birimlerle paylaşılmasını bizzat uygulamanın "paylaş" özellikleri üzerinden (cihazın kendi paylaşım paneli aracılığıyla) talep etmeniz durumu.
 
-6. Değişiklikler
+6. Veri Güvenliği, Saklama ve Veri Silme Hakları
+
+Verilerinizin güvenliğini sağlamak için endüstri standartlarında teknik ve idari tedbirler (SSL/TLS şifreleme yöntemleri, güvenli veri iletim protokolleri) uygulanmaktadır.
+• Saklama Süresi: Cihazınızda yerel olarak saklanan veriler siz uygulamayı silene kadar kalır. Yedekleme sunucularımızda tutulan anonim rapor verileri ise kaza raporlama amaçlarının gerçekleştirilmesi için gerekli olan süre boyunca veya yasal yükümlülüklerin gerektirdiği müddetçe saklanır.
+• Veri Silme Talebi: Uygulamada üyelik olmasa dahi, sunucularımızda yedeklenmiş olan rapor verilerinizin silinmesini istemeniz halinde, frhtmlnl@gmail.com adresine raporunuza ait benzersiz kimlik (UUID/Rapor ID) numarasını ileterek verilerinizin kalıcı olarak silinmesini talep edebilirsiniz.
+
+7. KVKK Kapsamında Kullanıcı Hakları
+
+Kullanıcılar, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (KVKK) 11. maddesi uyarınca aşağıdaki haklara sahiptir:
+• Kişisel verilerinin işlenip işlenmediğini öğrenme,
+• Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
+• Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
+• Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
+• Eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme,
+• KVKK mevzuatında öngörülen şartlar çerçevesinde kişisel verilerin silinmesini veya yok edilmesini isteme.
+Bu haklarınızı kullanmak için frhtmlnl@gmail.com adresi üzerinden bizimle iletişime geçebilirsiniz. Cihazınızdaki yerel verileri ise dilediğiniz zaman "Uygulama Verilerini Temizle" seçeneğiyle veya uygulamayı kaldırarak anında kalıcı olarak silebilirsiniz.
+
+8. Çocukların Gizliliği
+
+Uygulamamız 18 yaş altındaki çocuklara yönelik değildir ve bilerek çocuklardan kişisel veri toplamamaktadır. Eğer 18 yaşından küçük bir çocuğun bize veri aktardığını fark ederseniz, lütfen bizimle hemen iletişime geçiniz; söz konusu veriyi sunucularımızdan derhal sileceğiz.
+
+9. Değişiklikler
 
 Bu Gizlilik Politikası, uygulama özelliklerindeki değişiklikler veya yasal mevzuattaki güncellemeler doğrultusunda zaman zaman yenilenebilir. Politika üzerinde yapılan değişiklikler, yeni tarihin bu sayfanın üst kısmında yayınlanmasıyla birlikte yürürlüğe girer.
 
-7. İletişim
+10. İletişim
 
-Bu Gizlilik Politikası, com.trafikkazaportali.app uygulamamızın veri uygulamaları veya izin politikaları hakkında sorularınız ve talepleriniz için bizimle iletişime geçebilirsiniz:
+Bu Gizlilik Politikası, veri uygulamaları, izin politikaları, uygulama içi satın alımlar veya reklam süreçleri hakkındaki sorularınız, yasal talepleriniz ve veri silme istekleriniz için bizimle iletişime geçebilirsiniz:
 • E-posta: frhtmlnl@gmail.com
